@@ -47,7 +47,7 @@ class _SolidTestState extends State<SolidTest> {
                   color: _color.computeLuminance() > 0.5
                       ? Colors.black
                       : Colors.white,
-                )
+                ),
               ),
             ),
           ),
