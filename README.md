@@ -1,5 +1,7 @@
 # solid_demo
 
+[![style: solid](https://img.shields.io/badge/style-solid-orange)](https://pub.dev/packages/solid_lints)
+
 A new Flutter project.
 
 ## Getting Started
